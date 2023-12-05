@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">MyRecipeApp</string>
+    <string name="main_title">My Recipe App</string>
+    <string name="title1">Spaghetti bolognese</string>
+    <string name="time1">60m to cook</string>
+    <string name="desc1">Heat oil in a large saucepan over medium-high heat.
+        Cook onion, carrot, celery and garlic, stirring, for 5 minutes
+        or until softened. Add mince. Cook, breaking up with a wooden spoon,
+        for 6 to 8 minutes or until browned. Add paste, tomatoes, oregano,
+        nutmeg, sweetener and 1/2 cup cold water. Bring to the boil.
+        Reduce heat to low. Simmer, uncovered, for 20 to 30 minutes or
+        until thick. Season with salt and pepper. Meanwhile, cook pasta in a
+        large saucepan of boiling, salted water, following packet directions,
+        until tender. Drain. Divide pasta among serving bowls. Spoon over sauce.
+        Serve topped with cheese and fresh basil.
+    </string>
+    <string name="link1">https://img.taste.com.au/jWj_REwj/w720-h480-cfill-q80/taste/2016/11/spaghetti-bolognese-118369-2.jpg</string>
+
+    <string name="title2">Zucchini fritters</string>
+    <string name="time2">30m to cook</string>
+    <string name="desc2">Trim the ends from zucchini. Coarsely grate the zucchini.
+        Place in a colander and squeeze out as much excess moisture as possible.
+        Transfer to a bowl. Stir in self-raising flour, parmesan, shallots, egg,
+        parsley, oregano, salt and nutmeg. Heat 1 teaspoon olive oil in a non-stick frying
+        pan over medium-high heat. Drop three portions of zucchini mixture into pan.
+        Cook for 1 1/2 minutes each side or until golden and cooked through.
+        Transfer to a plate. Repeat with remaining olive oil and remaining zucchini mixture.
+</string>
+    <string name="link2">https://img.taste.com.au/g5UZaMfb/w720-h480-cfill-q80/taste/2016/11/zucchini-fritters-76488-1.jpeg</string>
+
+    <string name="title3">Minestrone soup</string>
+    <string name="time3">65m to cook</string>
+    <string name="desc3">Place the bacon, carrots, celery and potato in a large saucepan and stir
+        to combine. Cook over high heat, uncovered, stirring often, for 5 minutes. Add the garlic,
+        beef stock, tomatoes and red kidney beans to the pan, cover and bring to the boil. Reduce
+        heat to medium-low. Simmer, covered, stirring occasionally, for 30 minutes or until the
+        vegetables are tender. Increase heat to high. Add pasta and cook, uncovered, stirring
+        occasionally, following packet directions or until pasta is al dente. Season with salt and
+        pepper. Ladle into serving bowls and sprinkle with parsley. Serve immediately.
+    </string>
+    <string name="link3">https://img.taste.com.au/Lpk9jakR/w720-h480-cfill-q80/taste/2010/01/minestrone_soup_1980x1320-117900-1.jpg</string>
+
+    <string name="title4">Curried sausages</string>
+    <string name="time4">60m to cook</string>
+    <string name="desc4">Heat oil in a large, heavy-based saucepan over medium-high heat. Cook
+        sausages, in batches, turning, for 5 to 6 minutes or until browned all over. Transfer to
+        a large plate. Add onion, carrot and garlic. Cook, stirring, for 5 minutes or until onion
+        has softened. Add curry powder. Cook, stirring, for 30 seconds or until fragrant.
+        Add fruit chutney and stock. Return sausages to pan. Cover, bring to the boil.
+        Reduce heat to medium-low. Simmer, uncovered, for 25 minutes or until sausages are
+        cooked through and sauce thickens. Stir in peas. Season. Cook for 1 to 2 minutes or until
+        heated through. Serve with steamed rice and sprinkled with parsley leaves.</string>
+    <string name="link4">https://img.taste.com.au/cQSEA7BY/w720-h480-cfill-q80/taste/2016/11/curried-sausages-72753-1.jpeg</string>
+
+    <string name="title5">Pumpkin soup</string>
+    <string name="time5">50m to cook</string>
+    <string name="desc5">Heat oil in a large saucepan over low heat, add onion and leek and cook
+        for 2-3 minutes, until softened but not coloured. Add garlic and spices and cook, stirring,
+        for 30 seconds. Add pumpkin, potato and stock and bring to the boil. Turn heat to low,
+        cover and simmer for 30 minutes. Allow to cool slightly, then blend in batches. Return soup
+        to pan, stir through cream and reheat gently. Season and add a little more nutmeg if desired.</string>
+    <string name="link5">https://img.taste.com.au/lNSYKI_b/w720-h480-cfill-q80/taste/2010/01/best-easy-pumpkin-soup-recipe-185570-1.jpg</string>
+
+</resources>
